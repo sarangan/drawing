@@ -1,14 +1,14 @@
-#Installation
+Installation
 
-$git clone https://github.com/sarangan/drawing.git
+git clone https://github.com/sarangan/drawing.git
 cd drawing
 
-#Run
-$php drawing_main.php
+Run
+php drawing_main.php
 
 
-# tests
+tests
 run PHPUnit tests execute
 
-$cd drawing
-$ ./vendor/bin/phpunit
+cd drawing
+./vendor/bin/phpunit
