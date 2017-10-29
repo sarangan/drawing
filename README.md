@@ -1,7 +1,7 @@
 Installation
 
-git clone https://github.com/sarangan/drawing.git
- && cd drawing
+$git clone https://github.com/sarangan/drawing.git
+$cd drawing
 
 Run
 php drawing_main.php
